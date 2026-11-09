@@ -8,3 +8,7 @@ Branch: ISE
 
 ## Introduction
 This repository is created as part of Activity 3 to learn GitHub and version control. It contains project files and a README file. The repository is public, and commits are maintained with meaningful messages to show the development history.
+## Technologies Used
+- C Programming
+- GitHub
+- Version Control
